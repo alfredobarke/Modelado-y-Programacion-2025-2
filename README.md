@@ -2,6 +2,9 @@
 
 En este repo vienen las soluciones a los ejercicios 1.
 
+# Importante
+Toda la implementacion la hice desde Windows, las intrucciones las hice basado en eso
+
 ## Cómo ejecutar las pruebas unitarias
 
 Para ejecutar con pruebas unitarias
