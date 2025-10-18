@@ -1,6 +1,6 @@
 ﻿# README
 
-## Instrucciones para correr el programa:
+## Instrucciones para correr el programaaaaaaa:
 
 1. Se necesita tener **Python 3** instalado.
 1. Para correr el archivo usa:
