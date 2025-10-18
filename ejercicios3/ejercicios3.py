@@ -1,5 +1,6 @@
 # Ejercicios 3 - Modelado y Programacion
-# Alfredo B
+# Alfredo Barke tu pola 
+# Ajsjsjjsjsjs hola pola 
 
 # EJERCICIO 1: 
 # Busca los ceros y pone en cero su fila y columna
